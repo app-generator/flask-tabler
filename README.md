@@ -1,4 +1,4 @@
-# [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-tabler)
+# [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler)
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-tabler)** coded in **Flask Framework** on top of **Material Dashboard** design. **Features**:
 
@@ -95,4 +95,4 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - provided by **AppSeed**
+[Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - provided by **AppSeed**
