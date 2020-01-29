@@ -1,6 +1,8 @@
 # [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler)
 
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-tabler)** coded in **Flask Framework** on top of **Material Dashboard** design. **Features**:
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+
+### Dashboard Features:
 
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
@@ -98,7 +100,7 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 
 ## Credits & Links
 
-- [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Product page
+- [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Product page
 - [Flask Framework](https://www.palletsprojects.com/p/flask/) - Offcial website
 - [Flask Dashboard - Open-Source Boilerplates](https://dev.to/sm0ke/flask-dashboard-open-source-boilerplates-dkg) - A popular article published on Dev.to platform
 - [Flask Dashboard](https://admin-dashboards.com/tags/flask-dashboard) - Index provided by **Admin-Dashboards.com**
@@ -112,4 +114,4 @@ Visit `http://localhost:5000` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - provided by **AppSeed**
+[Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
