@@ -13,6 +13,13 @@
 
 <br />
 
+## Dashboard Links
+
+- [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - the product page
+- [Flask Dashboard Tabler](https://flask-dashboard-tabler.appseed.us/login) - LIVE Demo
+
+<br />
+
 ## Want more? Go PRO!
 
 PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
