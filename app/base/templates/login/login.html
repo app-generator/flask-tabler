@@ -15,15 +15,15 @@
         {{ form.hidden_tag() }}
 
         <div class="card-body p-6">
-          <div class="card-title">
+          <div class="card-title text-center">
 
             {% if msg %}
               {{ msg | safe }}
             {% else %}
             <span>
-              Use default credentials: test / pass
+              Use default credentials: <strong>test / pass</strong>
               <br />
-              OR <a href={{ url_for('base_blueprint.create_user') }} >create your own user</a>
+              OR <strong><a href={{ url_for('base_blueprint.create_user') }} >create your own user</a></strong>
             </span>
             {% endif %}  
             
@@ -56,6 +56,9 @@
       </form>
       <div class="text-center text-muted">
         Don't have account yet? <a href={{ url_for('base_blueprint.create_user') }} >Register</a>
+
+        <br />
+        <a href="https://appseed.us/admin-dashboards/flask-dashboard-tabler">Flask Dashboard Tabler</a> - coded by AppSeed.
       </div>
     </div>
   </div>

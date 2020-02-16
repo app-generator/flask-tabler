@@ -15,12 +15,13 @@
           {{ form.hidden_tag() }}
 
           <div class="card-body p-6">
-            <div class="card-title">
+            <div class="card-title text-center">
 
               {% if msg %}
                 {{ msg | safe }}
               {% else %}
-                Create new account
+                Add your credentials or 
+                <strong><a href={{ url_for('base_blueprint.login') }} >authenticate</a></strong> with an existing account.
               {% endif %}  
               
             </div>
@@ -60,6 +61,8 @@
         </form>
         <div class="text-center text-muted">
           Already have account? <a href={{ url_for('base_blueprint.login') }} >Sign IN</a>
+          <br />
+          <a href="https://appseed.us/admin-dashboards/flask-dashboard-tabler">Flask Dashboard Tabler</a> - coded by AppSeed.
         </div>
       </div>
     </div>
