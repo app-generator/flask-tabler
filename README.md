@@ -154,7 +154,7 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## What is [Flask](https://www.palletsprojects.com/p/flask/)
+### What is [Flask](https://www.palletsprojects.com/p/flask/)
 
 [Flask](https://www.palletsprojects.com/p/flask/) is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
@@ -166,11 +166,11 @@ A dashboard is a set of pages that are easy to read and offer information to the
 
 <br />
 
-## [Tabler Admin Dashboard](https://tabler.io/)
+### [Tabler Admin Dashboard](https://tabler.io/?ref=appseed)
 
 Tabler is a open-source admin template crafted by Codecalm agency. It comes with the basic components and set of pre-built pages required to lay the foundation for any application.
 
 <br />
 
 ---
-[Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**[Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
