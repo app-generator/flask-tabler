@@ -1,33 +1,24 @@
 # [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler)
 
-**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **Tabler Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
-<br />
-
-> **[Feedback/Suggest Feature](https://appseed.nolt.io/)**
-
-This product is **built based on community feedback**. Feel free (anonymously) to **[suggest/vote features](https://appseed.nolt.io/3)**. For more information, please access the [Facebook](https://www.facebook.com/webappseed/) page or chat with us on [Discord](https://discord.gg/fZC6hup).
-
-<br />
-
-### Dashboard Features:
-
+- UI Kit: **[Tabler Dashboard](https://flask-dashboard-tabler.appseed.us/login)** (Free version) provided by **CodeCalm**
+- Modular design with **Blueprints**
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
-- Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**), Forms validation
+- Session-Based authentication (via **flask_login**)
 - Deployment scripts: Docker, Gunicorn / Nginx
-- UI Kit: **[Tabler Dashboard](https://flask-dashboard-tabler.appseed.us/login)** (Free version) provided by **CodeCalm**
 - **MIT License**
-- Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
+- Free support via **Github** 
+- Paid Support **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
-<br />
-
-## Dashboard Links
+> Links
 
 - [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Product page
 - [Flask Dashboard Tabler](https://docs.appseed.us/admin-dashboards/flask-dashboard-tabler/) - Documentation
 - [Flask Dashboard Tabler](https://flask-dashboard-tabler.appseed.us/login) - LIVE demo
+- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
+- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
 
 <br />
 
@@ -35,9 +26,9 @@ This product is **built based on community feedback**. Feel free (anonymously) t
 
 PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
 
-| [Premium Flask Dashboards](https://appseed.us/bundles/flask-admin-dashboards-pro) | [Flask Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) |
+| [Flask DattaAble Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [Flask StarAdmin Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro) |
 | --- | --- | --- |
-| [![Premium Flask Dashboards - Provided by AppSeed.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-screen.png)](https://appseed.us/bundles/flask-admin-dashboards-pro) | [![Flask Dashboard Dashkit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-dashkit-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
+| [![Flask DattaAble Dark PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-dattaable-dark-pro/master/media/flask-dashboard-dattaable-dark-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-dark-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-black-pro/master/media/flask-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [![Flask StarAdmin Dark PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-staradmin-black-pro/master/media/flask-dashboard-staradmin-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro)
 
 <br />
 <br />
@@ -54,11 +45,11 @@ $ git clone https://github.com/app-generator/flask-dashboard-tabler.git
 $ cd flask-dashboard-tabler
 $
 $ # Virtualenv modules installation (Unix based systems)
-$ virtualenv --no-site-packages env
+$ virtualenv env
 $ source env/bin/activate
 $
 $ # Virtualenv modules installation (Windows based systems)
-$ # virtualenv --no-site-packages env
+$ # virtualenv env
 $ # .\env\Scripts\activate
 $
 $ # Install modules - SQLite Database
