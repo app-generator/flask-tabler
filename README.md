@@ -1,4 +1,4 @@
-# [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler)
+# [Flask Dashboard - Tabler Design](https://appseed.us/admin-dashboards/flask-dashboard-tabler)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -14,11 +14,11 @@
 
 > Links
 
-- [Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Product page
-- [Flask Dashboard Tabler](https://docs.appseed.us/admin-dashboards/flask-dashboard-tabler/) - Documentation
-- [Flask Dashboard Tabler](https://flask-dashboard-tabler.appseed.us/login) - LIVE demo
-- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
-- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
+- [Flask Dashboard - Tabler Design](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Product page
+- [Flask Dashboard Tabler Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-tabler/) - Documentation
+- [Flask Dashboard Tabler Demo](https://flask-dashboard-tabler.appseed.us/login) - LIVE demo
+- More [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
+- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
 <br />
 
@@ -172,4 +172,4 @@ Tabler is a open-source admin template crafted by Codecalm agency. It comes with
 <br />
 
 ---
-**[Flask Dashboard Tabler](https://appseed.us/admin-dashboards/flask-dashboard-tabler)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard - Tabler Design](https://appseed.us/admin-dashboards/flask-dashboard-tabler) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
