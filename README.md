@@ -174,4 +174,4 @@ Tabler is a open-source admin template crafted by Codecalm agency. It comes with
 <br />
 
 ---
-[Flask Dashboard](https://appseed.us/admin-dashboards/flask?ref=gh) Tabler - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard](https://appseed.us/admin-dashboards/flask?ref=gh) Tabler - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
