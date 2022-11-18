@@ -26,7 +26,7 @@ Open-source **[Flask Dashboard](https://appseed.us/admin-dashboards/flask)** gen
 
 <br />
 
-![Flask Dashboard Material - Open-Source Dashboard.](https://user-images.githubusercontent.com/51070104/202659663-fbb0ed51-677a-43fe-ad0b-13aaf5bd495b.png)
+![Flask Dashboard Tabler - Open-Source Dashboard.](https://user-images.githubusercontent.com/51070104/202659663-fbb0ed51-677a-43fe-ad0b-13aaf5bd495b.png)
 
 <br />
 
