@@ -7,6 +7,11 @@ Open-source **[Flask Dashboard](https://appseed.us/admin-dashboards/flask/)** ge
 
 <br />
 
+:::warning STATUS: **The project has been discontinued**
+:::
+
+<br />
+
 > Features
 
 - DBMS: SQLite, PostgreSQL (production) 
